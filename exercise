@@ -158,6 +158,12 @@
             <button type="submit" onclick="showAlert()" class="btn btn-primary">Submit</button>
         </form>
     </div>
+
+<!-- Services Section -->
+<div class="container mt-4" id="services">
+    <h2>Our Services</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut fringilla lectus nec metus commodo, vitae aliquam tortor efficitur.</p>
+</div>
  
     <!-- JavaScript Dependencies for Bootstrap -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script> <!-- jQuery -->
